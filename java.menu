@@ -1,0 +1,8 @@
+menu = {
+    course : java
+    c++ : youtube
+    mongo db : udemy
+    python : Apna College
+    Data Science : Code with Harry
+}
+
